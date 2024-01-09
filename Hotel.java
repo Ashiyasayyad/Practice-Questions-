@@ -23,7 +23,7 @@ System.out.println("1:masala papad 30rs");
 
 System.out.println("2:paneer chilli 100rs");
 
-System.out.println("3:pasta 70rs"); 
+System.out.println("3: Maggie 70rs"); 
 
 System.out.println("4:soyabeen chilli 100rs");
 
