@@ -1,4 +1,5 @@
-// Display month name
+import java.util.Scanner;
+class month{
 		System.out.println("Enter the month:");
 		switch(month)
 		{
